@@ -74,9 +74,6 @@ export default function About() {
                     <span className="font-display text-xs uppercase tracking-[0.2em] text-bone/90">
                       Amar Meshram
                     </span>
-                    <span className="font-serif text-xs italic text-amber">
-                      Fig. 01 — Portrait
-                    </span>
                   </figcaption>
                 </div>
               </figure>
